@@ -1,1 +1,2 @@
-# yuva-s-website
+# yuva's-website
+This is a basic website. Created for Fun.
